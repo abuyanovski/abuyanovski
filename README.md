@@ -3,44 +3,51 @@
 
 # Welcome to the Bug Hunter's HQ 🐛
 
-![](C:\Users\Anton\Downloads\BUG HUNTER.png)
-
 
 
 # 👋 Hi, I’m Anton Buyanovski
 
 ## 🎯 About Me
 
-I'm a QA Engineer specializing in manual and automated testing and passionate about smart bug hunting, generative AI, and self-education. 
+**🚀 Software QA Automation & AI Engineer | 5 Years Experience**
 
-## 🚀 Projects
+Quality Assurance Engineer specializing in **automated testing**, **AI-driven QA solutions**, and **full-stack quality assurance** across web, mobile, and cloud-based applications. Passionate about leveraging cutting-edge technologies to build robust, scalable testing frameworks.
 
-| Project                                   | Description                             | Live Demo / Repo                      |
-| ----------------------------------------- | --------------------------------------- | ------------------------------------- |
-| **Blue-Origin-and-X-AI-testing-project ** | Selenium, Python, unittest, pytest      | [Live](https://…) • [Code](https://…) |
-| **Project B**                             | Brief summary of features and tech used | [Code](https://…)                     |
+## 🔧 **Core Expertise**
 
-## 🛠 Skills
+- **Automation Testing**: Selenium WebDriver, Playwright, Postman API, Jenkins CI/CD
+- **AI Integration**: AI-powered QA automation tools and workflows
+- **Programming**: Python, JavaScript, SQL, HTML5/CSS3
+- **Testing Methodologies**: End-to-End, REST API, Performance, Security, Cross-browser
+- **Platforms**: Web, Mobile (iOS/Android), Desktop (Windows/macOS)
 
-- **Languages:** Python, Go  
-- **Frameworks:** React, Node.js, Django  
-- **Tools:** Docker, Kubernetes, Git,   
+## 🛠️ **Tech Stack**
 
-## 📈 GitHub Stats
+- **Automation**: Selenium, Playwright, Postman, Swagger, Docker, BrowserStack
+- **Performance**: Lighthouse, GTMetrix, SpeedLab
+- **Security**: Mozilla Observatory, Snyk
+- **Documentation**: Confluence, Jira, GitHub
+- **Methodologies**: Agile/SCRUM, SDLC
 
-![YourGitHubStats](https://github-readme-stats.vercel.app/api?username=YourUser&show_icons=true)
+## 🎯 **What I Do**
 
-## 📫 How to Reach Me
+✅ Design and implement comprehensive **pytest testing frameworks**
+✅ Build **cross-browser automation** with AI-enhanced testing strategies
+✅ Create detailed **QA documentation** (Test Plans, Coverage Matrices, Test Cases)
+✅ Perform **API testing** with advanced scripting and validation
+✅ Execute **performance and security testing** across multiple platforms
 
-- ✉️ Email: antonb-qa@gmail.com
+## 🌟 **Recent Focus**
 
-- 🔗 LinkedIn: https://linkedin.com/in/YourProfile  
+Currently integrating **AI-driven automation** into traditional QA workflows, exploring innovative approaches to enhance testing efficiency and coverage.
 
-  
+📧 **Contact**: [antonb.qa@gmail.com](mailto:antonb.qa@gmail.com)
+🔗 **LinkedIn**: [linkedin.com/in/AntonB-QA](https://linkedin.com/in/AntonB-QA)
+📍 **Location**: Las Vegas, NV
 
----
+------
 
-*“Strive not to be a success, but rather to be of value.”*  
+*Always learning, always testing, always improving software quality.*
 
 
 ______________________________________________________________________
@@ -49,13 +56,3 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
-## Overview
-
-This is a general-purpose template that aims to provide a magical start to any Python project. It includes the initial configuration of quality assurance tools, documentation, and automated actions to deploy a Python package.
-
-Check out the documentation for more details on how to use the template and its features: <https://docs.fschuch.com/wizard-template>.
-
-## Copyright and License
-
-© 2023 [Felipe N. Schuch](https://github.com/fschuch).
-All content is under [MIT License](https://github.com/fschuch/wizard-template/blob/main/LICENSE).
