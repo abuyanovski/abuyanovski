@@ -1,10 +1,3 @@
-<p align="center">
-<a href="https://github.com
-
-# Welcome to the Bug Hunter's HQ 🐛
-
-
-
 # 👋 Hi, I’m Anton Buyanovski
 
 ## 🎯 About Me
