@@ -28,7 +28,7 @@ Quality Assurance Engineer specializing in **automated testing**, **AI-driven QA
 
 ✅ Build **cross-browser automation** with AI-enhanced testing strategies
 
-✅ Create detailed **QA documentation** (Test Plans, Coverage Matrices, Test Cases)
+✅ Create detailed **QA documentation** (Test Plans, Coverage Matrices, Test Cases, Bug Reports)
 
 ✅ Perform **API testing** with advanced scripting and validation
 
@@ -42,7 +42,7 @@ Currently integrating **AI-driven automation** into traditional QA workflows, ex
 
 🔗 **LinkedIn**: [linkedin.com/in/AntonB-QA](https://linkedin.com/in/AntonB-QA)
 
-📍 **Location**: Las Vegas, NV
+📍 **Location**: Las Vegas, NV / Seattle, WA
 
 ------
 
