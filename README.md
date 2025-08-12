@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Anton Buyanovski
 
+<img src="Resources/photo_2025-08-12_15-14-04.jpg" width="1012" height="640" alt="Alt text">
+
+
 ## 🎯 About Me
 
 **🚀 Software QA Automation & AI Engineer | 5 Years Experience**
