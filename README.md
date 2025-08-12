@@ -27,7 +27,7 @@ Quality Assurance Engineer specializing in **automated testing**, **AI-driven QA
 
 ## 🎯 **What I Do**
 
-✅ Design and implement comprehensive **pytest testing frameworks**
+✅ Design and implement comprehensive **automated test suites**
 
 ✅ Build **cross-browser automation** with AI-enhanced testing strategies
 
