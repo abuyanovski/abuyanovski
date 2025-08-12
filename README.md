@@ -21,7 +21,7 @@ Quality Assurance Engineer specializing in **automated testing**, **AI-driven QA
 
 - **Automation**: Selenium, Playwright, Postman, Swagger, Docker, BrowserStack
 - **Performance**: Lighthouse, GTMetrix, SpeedLab
-- **Security**: Mozilla Observatory, Snyk
+- **Security**: Mozilla Observatory, HostedScan, Pentest
 - **Documentation**: Confluence, Jira, GitHub
 - **Methodologies**: Agile/SCRUM, SDLC
 
