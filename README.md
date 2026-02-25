@@ -41,7 +41,7 @@ Quality Assurance Engineer specializing in **automated testing**, **AI-driven QA
 
 Currently integrating **AI-driven automation** into traditional QA workflows, exploring innovative approaches to enhance testing efficiency and coverage.
 
-📧 **Contact**: [antonb.qa@gmail.com](mailto:antonb.qa@gmail.com)
+📧 **Contact**: [antonb.qa@gmail.com](mailto:buyanovski56@gmail.com)
 
 🔗 **LinkedIn**: [linkedin.com/in/AntonB-QA](https://linkedin.com/in/AntonB-QA)
 
