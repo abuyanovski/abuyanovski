@@ -5,7 +5,7 @@
 
 ## 🎯 About Me
 
-**🚀 Software QA Automation & AI Engineer | 5 Years Experience**
+**🚀 Software QA Automation & AI Engineer | 4 Years Experience**
 
 Quality Assurance Engineer specializing in **automated testing**, **AI-driven QA solutions**, and **full-stack quality assurance** across web, mobile, and cloud-based applications. Passionate about leveraging cutting-edge technologies to build robust, scalable testing frameworks.
 
