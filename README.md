@@ -5,41 +5,83 @@
 
 ## 🎯 About Me
 
-**🚀 Software QA Automation & AI Engineer | 4 Years Experience**
+# 👋 Hi, I'm Anton Buyanovski
 
-Quality Assurance Engineer specializing in **automated testing**, **AI-driven QA solutions**, and **full-stack quality assurance** across web, mobile, and cloud-based applications. Passionate about leveraging cutting-edge technologies to build robust, scalable testing frameworks.
+## Software QA | Test Automation | Python • Selenium • pytest • REST APIs • SQL
 
-## 🔧 **Core Expertise**
+I'm building hands-on software QA projects focused on **functional testing, test automation, API validation, data quality, and CI**.
 
-- **Automation Testing**: Selenium WebDriver, Playwright, Postman API, Jenkins CI/CD
-- **AI Integration**: AI-powered QA automation tools and workflows
-- **Programming**: Python, JavaScript, SQL, HTML5/CSS3
-- **Testing Methodologies**: End-to-End, REST API, Performance, Security, Cross-browser
-- **Platforms**: Web, Mobile (iOS/Android), Desktop (Windows/macOS)
+My background includes technical troubleshooting, requirements-driven verification, hardware/data validation, and quality-focused operations. I'm applying that experience to software QA through practical automation projects that show both the **test code and the QA thinking behind it**.
 
-## 🛠️ **Tech Stack**
+## 🔧 Core QA Skills
 
-- **Automation**: Selenium, Playwright, Postman, BrowserStack
-- **Performance**: Lighthouse, GTMetrix, SpeedLab
-- **Security**: Mozilla Observatory, HostedScan, Pentest
-- **Documentation**: Confluence, Jira, GitHub
-- **Methodologies**: Agile/SCRUM, SDLC
+**Test Automation**
+- Python
+- Selenium WebDriver
+- pytest
+- Page Object Model
+- Playwright — currently expanding
 
-## 🎯 **What I Do**
+**API & Data Validation**
+- REST APIs
+- Requests
+- Postman
+- JSON
+- SQL
+- Positive and negative API testing
 
-✅ Design and implement comprehensive **automated test suites**
+**QA Practices**
+- Functional testing
+- Regression testing
+- Black-box testing
+- Test case design
+- Defect documentation
+- Expected vs. actual analysis
+- Exploratory testing
 
-✅ Build **cross-browser automation** with AI-enhanced testing strategies
+**CI & Reporting**
+- GitHub Actions
+- pytest-html
+- Allure
+- Failure screenshots
+- Git/GitHub
 
-✅ Create detailed **QA documentation** (Test Plans, Coverage Matrices, Test Cases, Bug Reports)
+## 🧪 Featured QA Automation Project
 
-✅ Perform **API testing** with advanced scripting and validation
+### QA Automation Framework — Python + Selenium + pytest
 
-✅ Execute **performance and security testing** across multiple platforms
+My primary portfolio project demonstrates a practical QA workflow across UI testing, API testing, manual test design, reporting, and CI.
 
-## 🌟 **Recent Focus**
+**Current coverage:**
+- 10 automated UI tests
+- 4 automated REST API tests
+- Selenium Page Object Model
+- Chrome and Firefox execution
+- Reusable pytest fixtures
+- Reusable API client
+- GitHub Actions CI
+- HTML and Allure reporting
+- Automatic failure screenshots
+- Manual UI/API test documentation
+- Expected `xfail` coverage for known abnormal application behavior
 
-Currently integrating **AI-driven automation** into traditional QA workflows, exploring innovative approaches to enhance testing efficiency and coverage.
+➡️ [View the QA Automation Framework](https://github.com/abuyanovski/qa-automation-framework)
+
+## 🚧 Current Focus
+
+I'm currently expanding my portfolio with **Playwright** and building more realistic end-to-end application testing that combines UI, API, data validation, and test strategy.
+
+I also use AI tools as part of my QA workflow for research, test-design support, debugging, documentation, and analysis while reviewing and validating the resulting work myself.
+
+## 🎯 What I'm Looking For
+
+I'm interested in **QA Engineer, QA Analyst, Software Tester, Test Engineer, and junior QA Automation** opportunities where I can contribute strong functional-testing fundamentals while continuing to grow in automation.
+
+📍 Las Vegas, NV | Targeting Seattle / Washington and remote U.S. opportunities
+
+🔗 [LinkedIn](https://linkedin.com/in/AntonB-QA)
+
+📧 buyanovski56@gmail.com
 
 📧 **Contact**: [buyanovski56@gmail.com](mailto:buyanovski56@gmail.com)
 
