@@ -1,105 +1,74 @@
-# 👋 Hi, I’m Anton Buyanovski
+# Hi, I'm Anton Buyanovski 👋
 
-<img src="Resources/photo_2025-08-12_15-14-04.jpg" width="1012" height="640" alt="Alt text">
+## Software QA | Test Automation | Python · Playwright · Selenium · pytest · REST APIs · SQL
 
+I build hands-on QA projects that demonstrate both **working test automation** and the **QA thinking behind it**—test strategy, risk-based coverage, reusable framework design, defect documentation, reporting, and continuous integration.
 
-## 🎯 About Me
+## ⭐ Featured QA Projects
 
-# 👋 Hi, I'm Anton Buyanovski
+### 1. [QA Automation Framework — Selenium, API Testing, and CI](https://github.com/abuyanovski/qa-automation-framework)
 
-## Software QA | Test Automation | Python • Selenium • pytest • REST APIs • SQL
+**Python · Selenium WebDriver · pytest · REST APIs · Page Object Model · GitHub Actions**
 
-I'm building hands-on software QA projects focused on **functional testing, test automation, API validation, data quality, and CI**.
+A working automation framework that demonstrates a practical QA workflow across **SauceDemo UI testing** and **JSONPlaceholder API testing**. It includes reusable page objects and fixtures, a shared API client, cross-browser execution, manual test documentation, failure screenshots, HTML/Allure reporting, and CI execution.
 
-My background includes technical troubleshooting, requirements-driven verification, hardware/data validation, and quality-focused operations. I'm applying that experience to software QA through practical automation projects that show both the **test code and the QA thinking behind it**.
+**What you can explore:**
 
-## 🔧 Core QA Skills
+* 10 automated UI tests covering login, inventory, cart, and checkout workflows
+* 4 automated REST API tests with response and payload validation
+* Page Object Model architecture and reusable pytest fixtures
+* Manual UI/API test cases and traceable QA documentation
+* GitHub Actions workflow, test reports, screenshots, and an intentionally documented expected failure
 
-**Test Automation**
-- Python
-- Selenium WebDriver
-- pytest
-- Page Object Model
-- Playwright — currently expanding
+➡️ **[Explore the complete QA Automation Framework](https://github.com/abuyanovski/qa-automation-framework)**
 
-**API & Data Validation**
-- REST APIs
-- Requests
-- Postman
-- JSON
-- SQL
-- Positive and negative API testing
+---
 
-**QA Practices**
-- Functional testing
-- Regression testing
-- Black-box testing
-- Test case design
-- Defect documentation
-- Expected vs. actual analysis
-- Exploratory testing
+### 2. [Playwright QA Automation Framework — Active Project](https://github.com/abuyanovski/Playwright-QA-Automation-Framework)
 
-**CI & Reporting**
-- GitHub Actions
-- pytest-html
-- Allure
-- Failure screenshots
-- Git/GitHub
+**Python · Playwright · pytest · UI/API/Integration Testing · GitHub Actions**
 
-## 🧪 Featured QA Automation Project
+My current portfolio project, built around realistic **ParaBank banking workflows**. The project is being developed to show the full QA lifecycle—from test strategy and documented cases through UI, API, and cross-layer automation.
 
-### QA Automation Framework — Python + Selenium + pytest
+**What the project is designed to demonstrate:**
 
-My primary portfolio project demonstrates a practical QA workflow across UI testing, API testing, manual test design, reporting, and CI.
+* A maintainable Playwright framework with clear separation of test layers
+* Realistic end-to-end banking scenarios rather than isolated demo checks
+* UI, API, and integration coverage supported by reusable page objects and helpers
+* Test strategy, formal test cases, and example defect reporting
+* CI execution and recruiter-friendly evidence of test results
 
-**Current coverage:**
-- 10 automated UI tests
-- 4 automated REST API tests
-- Selenium Page Object Model
-- Chrome and Firefox execution
-- Reusable pytest fixtures
-- Reusable API client
-- GitHub Actions CI
-- HTML and Allure reporting
-- Automatic failure screenshots
-- Manual UI/API test documentation
-- Expected `xfail` coverage for known abnormal application behavior
+➡️ **[Follow the Playwright project as it develops](https://github.com/abuyanovski/Playwright-QA-Automation-Framework)**
 
-➡️ [View the QA Automation Framework](https://github.com/abuyanovski/qa-automation-framework)
+## About Me
 
-## 🚧 Current Focus
+My background includes technical troubleshooting, requirements-driven verification, hardware and data validation, and quality-focused operations. I bring that same methodical approach to software QA: understand the requirement, identify risk, design meaningful coverage, investigate failures, and document results clearly.
 
-I'm currently expanding my portfolio with **Playwright** and building more realistic end-to-end application testing that combines UI, API, data validation, and test strategy.
+I use AI-assisted tools for research, test-design support, debugging, and documentation, while personally reviewing and validating the resulting work.
 
-I also use AI tools as part of my QA workflow for research, test-design support, debugging, documentation, and analysis while reviewing and validating the resulting work myself.
+## Core QA Skills
 
-## 🎯 What I'm Looking For
+| Area                    | Tools and Practices                                                      |
+| ----------------------- | ------------------------------------------------------------------------ |
+| Test automation         | Python, Playwright, Selenium WebDriver, pytest, Page Object Model        |
+| API and data validation | REST APIs, requests, Postman, JSON, SQL                                  |
+| Testing practices       | Functional, regression, negative, exploratory, and black-box testing     |
+| QA documentation        | Test strategies, test cases, defect reports, expected-vs-actual analysis |
+| CI and reporting        | GitHub Actions, pytest-html, Allure, failure screenshots                 |
+| Development workflow    | Git, GitHub, reusable fixtures, modular framework design                 |
 
-I'm interested in **QA Engineer, QA Analyst, Software Tester, Test Engineer, and junior QA Automation** opportunities where I can contribute strong functional-testing fundamentals while continuing to grow in automation.
+## Current Focus
 
-📍 Las Vegas, NV | Targeting Seattle / Washington and remote U.S. opportunities
+I am expanding my Playwright project into a realistic end-to-end testing portfolio that connects **test strategy → manual coverage → automation → CI → reporting**.
 
+## Opportunities
+
+I am interested in **QA Engineer, QA Analyst, Software Tester, Test Engineer, and junior QA Automation** opportunities.
+
+📍 Las Vegas, NV · Targeting Seattle/Washington and remote U.S. roles
 🔗 [LinkedIn](https://linkedin.com/in/AntonB-QA)
+📧 [buyanovski56@gmail.com](mailto:buyanovski56@gmail.com)
 
-📧 buyanovski56@gmail.com
+---
 
-📧 **Contact**: [buyanovski56@gmail.com](mailto:buyanovski56@gmail.com)
-
-🔗 **LinkedIn**: [linkedin.com/in/AntonB-QA](https://linkedin.com/in/AntonB-QA)
-
-📍 **Location**: Las Vegas, NV / Seattle, WA
-
-------
-
-*Always learning, always testing, always improving software quality.*
-
-
-______________________________________________________________________
-
-​   ​											                [![CI](https://github.com/fschuch/wizard-template/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/fschuch/wizard-template/actions/workflows/ci.yaml)[![CodeQL](https://github.com/fschuch/wizard-template/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/fschuch/wizard-template/actions/workflows/github-code-scanning/codeql)[![Wizard Template](https://img.shields.io/badge/Wizard-Template-%23447CAA)](https://github.com/fschuch/wizard-template)[![Checked with mypy](https://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/)[GitHub License](https://img.shields.io/github/license/fschuch/wizard-template?color=blue)
-
-______________________________________________________________________
-
-
-______________________________________________________________________
-
+*Always learning, always testing, and always improving software quality.*
